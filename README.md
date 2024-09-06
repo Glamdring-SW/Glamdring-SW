@@ -1,6 +1,6 @@
 # Glamdring
 
-**Slogan**: Soluciones simples forjamos, problemas complejos solucionamos.
+**Slogan**: *Creamos software, entregamos calidad.*
 **Misión**: Nuestra misión es proporcionar soluciones innovadoras y efectivas con precisión y fuerza, fomentando la adaptabilidad y agilidad. Nos comprometemos a ofrecer servicios y productos de alta calidad que promuevan la cooperación, apoyen el medio ambiente y beneficien a la sociedad.
 **Visión**: Seremos reconocidos como líderes en la industria por nuestra capacidad para ofrecer soluciones simples y efectivas, con fortaleza y adaptabilidad. Nuestra empresa será un modelo a seguir en cuanto a responsabilidad social y ambiental, contribuyendo positivamente al bienestar de la sociedad y del planeta.
 **Objetivo**: Desarrollar en un lapso de tiempo de 1 semestre una aplicación web con soporte móvil que ayude a las personas a mejorar su conciencia ambiental con el enfoque de mejorar su conocimiento con respecto a cultivos.
